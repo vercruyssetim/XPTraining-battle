@@ -16,7 +16,7 @@ Run [buildscripts/run_al_tests.sh](buildscripts/run_all_tests.sh) (or the comman
 * Flip the switch for ```XPTraining-battle```
 * Push a change to the forked repository
 * Go to https://travis-ci.org/your_account/XPTraining-battle
-* Enjoy your first build for XPTraining-battle!
+* Enjoy your first build for XPTraining-battle! (it can take a few minutes before the build will start)
 
 ## Collaboration Setup
 
