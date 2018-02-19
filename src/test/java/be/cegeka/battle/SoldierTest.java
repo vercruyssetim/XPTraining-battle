@@ -10,7 +10,7 @@ public class SoldierTest {
     public void construction_ASoldierMustHaveAName() {
         Soldier soldier = new Soldier("name");
 
-        assertThat(soldier.getName()).isEqualTo("name");
+        assertThat(soldier.getName()).isEqualTo("nm");
     }
 
     @Test(expected = IllegalArgumentException.class)
